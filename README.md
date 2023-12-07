@@ -64,7 +64,7 @@ If you work with Python, you may have used one of the open source projects I sup
 	</tbody>
 </table>
 
-- 🌱 I’m currently learning **Keras, Tensorflow and Pytorch**
+## 🌱 I’m currently learning **Keras, Tensorflow and Pytorch**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
