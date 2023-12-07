@@ -30,6 +30,40 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gaurab-B&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gaurab-B&theme=github)
 
+
+
+## What I'm Working On
+
+### Biggest Projects
+
+If you work with Python, you may have used one of the open source projects I support:
+
+<!-- markdownlint-disable sentences-per-line -->
+<table width="100%">
+	<thead>
+		<th span="col">Project ⚙️</th>
+		<th span="col">Description 📝</th>
+		<th span="col">Role 🧑‍🏭</th>
+	</thead>
+	<tbody>
+		<tr>
+			<th span="row"><a href="https://github.com/Gaurab-B/MRS">Movie Recommendation System</a></th>
+			<td>✨ Researching the different types of recommendation systems from content to collaborative to deep learning based models.t</td>
+			<td>Researcher</td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/Gaurab-B/Covid19-Data-Cleaning">Covid 19 Data Cleaning</a></th>
+			<td>Extractinng, Downloading, Cleaning and Merging different datasets about Covid 19 in USA to prepare the data for further analysis.</td>
+			<td>Creator & maintainer</td>
+		</tr>
+		<tr>
+			<th span="row"><a href="#">Manchester City Soccer Games Analysis</a></th>
+			<td>Learning about the different feautres that leads to win in a soccer match for Manchester City. Used R to build a linear regression model to predict the total goals scored by Manchester City.💝</td>
+			<td>Creator & maintainer</td>
+		</tr>
+	</tbody>
+</table>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gaurabbaral5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Gaurab Baral" height="30" width="40" /></a>
