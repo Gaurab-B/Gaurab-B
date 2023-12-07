@@ -1,6 +1,4 @@
 <!-- <h1 align='center'>Gaurab Baral</h1>
-<h1 align="center">Hi 👋, I'm Gaurab Baral</h1>
-<h3 align="center">L.I.F.E fellow and Junior at Northern Kentucky University majoring in Data Science.</h3>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gaurab-B&theme=github">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gaurab-B&theme=github">
@@ -24,7 +22,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Gaurab-B&show_icons=true&theme=tokyonight">
 </p>
 -->
-`I like coding.`
+`<h1 align="center">Hi 👋, I'm Gaurab Baral</h1>
+<h3 align="center">L.I.F.E fellow and Junior at Northern Kentucky University majoring in Data Science.</h3>`
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gaurab-B&theme=github)
 
