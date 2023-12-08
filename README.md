@@ -64,7 +64,6 @@ If you work with Python and R, you may have done some similar work like me!
 	</tbody>
 </table>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gaurab-B&show_icons=true&locale=en" alt="Gaurab Baral" /></p>
-<p align="center">🌱 I’m currently learning **Keras, Tensorflow and Pytorch</p> 
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
