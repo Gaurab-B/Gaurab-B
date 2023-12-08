@@ -63,7 +63,7 @@ If you work with Python and R, you may have done some similar work like me!
 		</tr>
 	</tbody>
 </table>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurab-B&" alt="Gaurab Baral" /></p>
 ## 🌱 I’m currently learning **Keras, Tensorflow and Pytorch**
   
 <h3 align="left">Connect with me:</h3>
