@@ -36,7 +36,7 @@
 
 ### Biggest Projects
 
-If you work with Python, you may have used one of the open source projects I support:
+If you work with Python and R, you may have done some similar work like me!
 
 <!-- markdownlint-disable sentences-per-line -->
 <table width="100%">
@@ -57,7 +57,7 @@ If you work with Python, you may have used one of the open source projects I sup
 			<td>Creator & maintainer</td>
 		</tr>
 		<tr>
-			<th span="row"><a href="#">Manchester City Soccer Games Analysis</a></th>
+			<th span="row"><a href="https://github.com/Gaurab-B/Manchester_City_Linear_Regression">Manchester City Soccer Games Analysis</a></th>
 			<td>Learning about the different feautres that leads to win in a soccer match for Manchester City. Used R to build a linear regression model to predict the total goals scored by Manchester City.💝</td>
 			<td>Creator & maintainer</td>
 		</tr>
