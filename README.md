@@ -53,7 +53,7 @@ If you work with Python, you may have used one of the open source projects I sup
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/Gaurab-B/Covid19-Data-Cleaning">Covid 19 Data Cleaning</a></th>
-			<td>Extractinng, Downloading, Cleaning and Merging different datasets about Covid 19 in USA to prepare the data for further analysis.</td>
+			<td>Extracting, Downloading, Cleaning and Merging different datasets about Covid 19 in USA to prepare the data for further analysis.</td>
 			<td>Creator & maintainer</td>
 		</tr>
 		<tr>
