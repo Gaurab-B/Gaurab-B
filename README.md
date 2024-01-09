@@ -26,6 +26,7 @@
 <h3 align="center">L.I.F.E fellow and Junior at Northern Kentucky University majoring in Data Science.</h3>`
 <a href = "https://gaurab-b.github.io" align="center">Portfolio Website</a>\
 <br>
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gaurab-B&theme=github)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gaurab-B&theme=github)
