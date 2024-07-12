@@ -50,8 +50,13 @@ If you work with Python and R, you may have done some similar work like me!
 	<tbody>
 		<tr>
 			<th span="row"><a href="https://github.com/Gaurab-B/MRS">Movie Recommendation System</a></th>
-			<td>✨ Researching the different types of recommendation systems from content to collaborative to deep learning based models.t</td>
+			<td>✨ Researching the different types of recommendation systems from content to collaborative to deep learning based models.</td>
 			<td>Researcher</td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/Gaurab-B/Car_Price_Facebook_Marketpalce">Facebook Marketplace Web Scraper</a></th>
+			<td>Scraping the facebook marketplace to find details and general trend about cars sold in the USA second hand market.</td>
+			<td>Creator</td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/Gaurab-B/Covid19-Data-Cleaning">Covid 19 Data Cleaning</a></th>
