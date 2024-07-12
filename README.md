@@ -23,7 +23,7 @@
 </p>
 -->
 `<h1 align="center">Hi 👋, I'm Gaurab Baral</h1>
-<h3 align="center">L.I.F.E fellow and Junior at Northern Kentucky University majoring in Data Science.</h3>`
+<h3 align="center">L.I.F.E fellow and Researcher at Northern Kentucky University majoring in Data Science.</h3>`
 <a href = "https://gaurab-b.github.io" align="center">Portfolio Website</a>
 <br>
 
