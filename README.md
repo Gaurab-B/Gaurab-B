@@ -61,12 +61,12 @@ If you work with Python and R, you may have done some similar work like me!
 		<tr>
 			<th span="row"><a href="https://github.com/Gaurab-B/Indeed-Job-Scraping">Indeed Job Scraper and Analyzer</a></th>
 			<td>Scraping the indeed website and use gpt3.5 to analyze which job to apply for me.</td>
-			<td>Creator</td>
+			<td>Analyzer</td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/Gaurab-B/Covid19-Data-Cleaning">Covid 19 Data Cleaning</a></th>
 			<td>Extracting, Downloading, Cleaning and Merging different datasets about Covid 19 in USA to prepare the data for further analysis.</td>
-			<td>Creator & maintainer</td>
+			<td>Data Collector and Engineer</td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/Gaurab-B/Manchester_City_Linear_Regression">Manchester City Soccer Games Analysis</a></th>
